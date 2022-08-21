@@ -1,8 +1,6 @@
 """Python Mad Libs"""
 """Mad Libs require a short story with blank spaces (asking for different types of words). Words from the player will fill in those blanks."""
 
-# The template for the story
-
 # prints "Here we go!" into console
 print("Here we go!")
 # prints an empty message into console, resulting in a break, for readability reasons
