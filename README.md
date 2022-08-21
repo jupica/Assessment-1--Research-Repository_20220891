@@ -7,3 +7,4 @@ A while loop is created to ask the user for their input, it will only continue t
 The code then checks if the user input == (is the same as) the computers input. If they are the same, the game is tied, and the code outputs "Tie! Both chose " followed by the computers input.
 If those conditions aren't met, the code then checks if the computers choice would beat the users choice. If that is the case, the code outputs "You lose! Computer chose (The computers choice), and you chose (Users choice)."
 If those conditions are not met, the user has won, so the code outputs "You win! Computer chose (The computers choice), and you chose (Users choice)"
+
