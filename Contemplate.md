@@ -19,6 +19,9 @@
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
     I have 5 tabs open, all of which are study related.
 
+### What is Python used for?
+    Python is often used for creating websites and software, and for data analysis. 
+
 ### What is an IDE?
     An integrated development environment. It is software for developing applications, and combines multiple develover tools into one GUI.
 
